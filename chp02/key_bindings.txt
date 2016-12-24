@@ -1,0 +1,15 @@
+Keyboard shortcut for Sublime Text:
+
+Preferences >>Key Bindings – User
+
+Delete this top part: above (annd including) the dashed lines)
+
+On a Windows computer, you can press Control + Shift + "u" (all 3 at the same time)
+	To upload a file
+
+----------------
+
+
+[
+	 { "keys": ["ctrl+shift+u"], "command": "sftp_upload_file" },
+]

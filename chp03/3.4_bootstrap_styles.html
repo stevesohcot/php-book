@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+</head>
+<body>
+
+<div class="container">
+
+	<h4>Sample Form</h4>
+
+	<form method="POST" action="process_the_form.php" class="form-inline">
+		<div>Single-line text field:
+			<input type="text" name="text_field" class="form-control" />
+		</div>
+
+		<div>Dropdown:
+			<select name="select_dropdown" class="form-control">
+				<option value="option 1">Option 1</option>
+				<option value="option 2">Option 2</option>
+				<option value="option 3">Option 3</option>
+				
+			</select>
+		</div>
+		
+		<div>Bigger text field:
+			<textarea name="big_text_field" rows="2" cols="20" class="form-control"></textarea>
+		</div>
+
+		<div><input type="submit" value="Save" class="btn btn-primary" /></div>
+	</form>
+
+</div> <!-- closes div class="container"> -->
+
+</body>
+</html>
+
+
