@@ -21,4 +21,4 @@ For the more technical readers: this book covers relational databases taking a p
 
 ### [Buy the book](https://www.amazon.com/dp/1536819670/)
 
-### [About the author](https://www.stevesohcot.com)
+### [About the author](http://www.stevesohcot.com)
