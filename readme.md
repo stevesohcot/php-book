@@ -19,4 +19,6 @@ The author is sharing his personal best practices based on his 15+ years experie
 
 For the more technical readers: this book covers relational databases taking a procedural-style coding approach.
 
-### [Additional info on the book](https://www.stevesohcot.com/php-book)
+### [Buy the book](https://www.amazon.com/dp/1536819670/)
+
+### [About the author](https://www.stevesohcot.com)
