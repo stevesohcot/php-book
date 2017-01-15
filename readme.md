@@ -19,6 +19,9 @@ The author is sharing his personal best practices based on his 15+ years experie
 
 For the more technical readers: this book covers relational databases taking a procedural-style coding approach.
 
+
+### [Preview Sample Chapters](https://github.com/stevesohcot/php-book/raw/master/php-web-development-intermediate-programmers-book-preview.pdf)
+
 ### [Buy the book](https://www.amazon.com/dp/1536819670/)
 
 ### [About the author](http://www.stevesohcot.com)
